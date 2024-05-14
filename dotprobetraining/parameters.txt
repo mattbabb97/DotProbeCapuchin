@@ -1,0 +1,16 @@
+FULLSCREEN?
+False
+SESSION TYPE: (Training)
+1
+TRIAL PER BLOCK
+20
+BLOCKS PER SESSION
+40
+ITI (sec)
+5
+TRIAL DURATION (sec)
+10
+IBI - inter-block interval (sec)
+5
+RUNTIME (in seconds)
+10000
